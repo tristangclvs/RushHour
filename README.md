@@ -1,2 +1,2 @@
 # RushHour
-Little Rush Hour game on graphical interface
+Little Rush Hour game on graphical interface. University Project.
